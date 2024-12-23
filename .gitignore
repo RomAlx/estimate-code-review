@@ -1,0 +1,7 @@
+/vendor/
+.php_cs.cache
+data/model.dat
+.env
+composer.lock
+.idea/
+.DS_Store
